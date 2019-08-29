@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    border: 10px solid purple;
+    padding: 20px;
+    margin: 5% 30%;
+}
+button {
+    margin: 4%;
+}
+p {
+    font-size: 100px;
+    color: purple;
+}
